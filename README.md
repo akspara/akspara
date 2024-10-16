@@ -60,6 +60,8 @@ within fast-paced, collaborative environments.
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/akshit-tiwari/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:akshittacker@gmail.com?subject=Hello%20Akshit,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+   <a target="_blank"href="https://www.hackerearth.com/@akshittacker/"><img src="https://img.shields.io/badge/HackerEarth-15376e.svg?&style=for-the-badge&logo=hackerearth&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+ <a target="_blank"href="https://www.hackerrank.com/profile/AkshitTiwari/"><img src="https://img.shields.io/badge/HackerRank-3c3d78.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <p align="center">
    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Thank+You+For+Visiting...;See+You+Soon+!!!&center=true&width=500&height=45"></a>
