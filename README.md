@@ -3,7 +3,7 @@
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=akspara" alt="https://github.com/akspara" />
 </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akspara&show_icons=true&locale=en&theme=blue-green"  alt="akspara"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p>&nbsp;<img align="center" width="43%" src="https://github-readme-stats.vercel.app/api?username=akspara&show_icons=true&locale=en&theme=blue-green"  alt="akspara"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img align="center" width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akspara&layout=compact&theme=blue-green" />
 </p>
 
